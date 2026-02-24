@@ -61,8 +61,8 @@ I'm passionate about the full picture: crafting solid **frontends**, building ro
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-master-granzuglio.vercel.app/api?username=JordanFarias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366F1&icon_color=f59e0b&text_color=cdd6f4&count_private=true" />
-<img height="160" src="https://github-readme-stats-git-master-granzuglio.vercel.app/api/top-langs/?username=JordanFarias&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366F1&text_color=cdd6f4" />
+<img height="160" src="https://github-readme-stats-iota-dun-90.vercel.app/api?username=JordanFarias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366F1&icon_color=f59e0b&text_color=cdd6f4&count_private=true" />
+<img height="160" src="https://github-readme-stats-iota-dun-90.vercel.app/api/top-langs/?username=JordanFarias&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366F1&text_color=cdd6f4" />
 
 </div>
 
