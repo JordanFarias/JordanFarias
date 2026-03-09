@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jordan+Farias+%F0%9F%91%8B;Full+Stack+Developer;AI+Engineer+in+progress;I+love+building+things+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jordan+Farias+%F0%9F%91%8B;Full+Stack+Developer;I+love+building+things+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Talca%2C%20Chile%20🇨🇱-6366F1?style=flat-square&labelColor=1e1e2e" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-f59e0b?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-f59e0b?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 </div>
@@ -17,11 +17,11 @@
 
 ## 👨‍💻 About me
 
-I'm a Computer Science Engineering student from Chile working towards becoming a **Full Stack Developer & AI Engineer**.
+I'm a Computer Science Engineering student from Chile working towards becoming a **Full Stack Developer**.
 I'm someone who learns by doing — if I don't know something yet, I'll figure it out.
 I believe the best way to grow is to set a high bar and work until you reach it.
 
-I'm passionate about the full picture: crafting solid **frontends**, building robust **backends**, integrating **AI** into products, and understanding the **infrastructure** that holds it all together.
+I'm passionate about the full picture: crafting solid **frontends**, building robust **backends**, and understanding the **infrastructure** that holds it all together.
 
 - 🌱 Studying Computer Science Engineering
 - 🔨 Always building something
@@ -39,15 +39,6 @@ I'm passionate about the full picture: crafting solid **frontends**, building ro
 ### Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgresql,mongodb,redis" />
-</p>
-
-### AI & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=openai" />
-  <img src="https://img.shields.io/badge/Claude%20API-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Vector%20DBs-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square" />
 </p>
 
 ### DevOps & Cloud
