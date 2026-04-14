@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jordan+Farias+%F0%9F%91%8B;Full+Stack+Developer;I+love+building+things+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jordan+Farias+%F0%9F%91%8B;Full+Stack+Developer;I+love+building+things+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Talca%2C%20Chile%20🇨🇱-6366F1?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-f59e0b?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/Based%20in-Talca%2C%20Chile%20🇨🇱-0969DA?style=flat-square&labelColor=010409" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=flat-square&labelColor=010409" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-0969DA?style=flat-square&labelColor=010409" />
 </p>
 
 </div>
@@ -18,6 +17,7 @@
 ## 👨‍💻 About me
 
 I'm a Computer Science Engineering student from Chile working towards becoming a **Full Stack Developer**.
+
 I'm someone who learns by doing — if I don't know something yet, I'll figure it out.
 I believe the best way to grow is to set a high bar and work until you reach it.
 
@@ -26,6 +26,7 @@ I'm passionate about the full picture: crafting solid **frontends**, building ro
 - 🌱 Studying Computer Science Engineering
 - 🔨 Always building something
 - 🎯 Goal: Build real products that solve real problems
+- 🌐 Portfolio: [jordanfarias.github.io/Portafolio](https://jordanfarias.github.io/Portafolio/)
 
 ---
 
@@ -33,33 +34,24 @@ I'm passionate about the full picture: crafting solid **frontends**, building ro
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,astro" />
 </p>
 
-### Backend & Databases
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastapi" />
 </p>
 
-### DevOps & Cloud
+### Databases & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,kubernetes,terraform" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,docker,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Portfolio
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-iota-dun-90.vercel.app/api?username=JordanFarias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366F1&icon_color=f59e0b&text_color=cdd6f4&count_private=true" />
-<img height="160" src="https://github-readme-stats-iota-dun-90.vercel.app/api/top-langs/?username=JordanFarias&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=6366F1&text_color=cdd6f4" />
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JordanFarias&theme=tokyonight&hide_border=true&background=1e1e2e&ring=6366F1&fire=f59e0b&currStreakLabel=cdd6f4" />
-</div>
+[![Portfolio](https://img.shields.io/badge/Ver%20Portafolio-jordanfarias.github.io-0969DA?style=for-the-badge&logoColor=white)](https://jordanfarias.github.io/Portafolio/)
 
 ---
 
@@ -77,5 +69,5 @@ I'm passionate about the full picture: crafting solid **frontends**, building ro
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=80&section=footer" />
 </div>
