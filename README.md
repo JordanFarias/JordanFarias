@@ -26,8 +26,6 @@ I'm passionate about the full picture: crafting solid **frontends**, building ro
 - 🌱 Studying Computer Science Engineering
 - 🔨 Always building something
 - 🎯 Goal: Build real products that solve real problems
-- 🌐 Portfolio: [jordanfarias.github.io/Portafolio](https://jordanfarias.github.io/Portafolio/)
-
 ---
 
 ## 🛠️ Tech Stack
