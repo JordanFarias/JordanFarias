@@ -45,9 +45,11 @@ Studying Computer Science Engineering · Always building something · Goal: Buil
 
 ## 🚀 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Ver%20Portafolio-jordanfarias.github.io-0969DA?style=for-the-badge&logoColor=white)](https://jordanfarias.github.io/Portafolio/)
-
----
+<p align="center">
+  <a href="https://jordanfarias.github.io/Portafolio/">
+    <img src="https://img.shields.io/badge/Ver%20Portafolio-jordanfarias.github.io-E4405F?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
 ## 📫 Contact
 
@@ -55,8 +57,8 @@ Studying Computer Science Engineering · Always building something · Goal: Buil
   <a href="https://www.linkedin.com/in/jordanfariasdev/">
     <img src="https://img.shields.io/badge/LinkedIn-Jordan%20Farias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/7ordanm">
-    <img src="https://img.shields.io/badge/Instagram-@7ordanm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="mailto:jordan.devcode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jordan.devcode@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
