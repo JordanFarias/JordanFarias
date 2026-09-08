@@ -1,30 +1,24 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jordan+Farias+%F0%9F%91%8B;Full+Stack+Developer;I+love+building+things+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jordan+Farias+%F0%9F%91%8B;Computer+Science+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Code%2C+learn%2C+iterate" alt="Typing SVG" />
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Based%20in-Talca%2C%20Chile%20🇨🇱-0969DA?style=flat-square&labelColor=010409" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-22c55e?style=flat-square&labelColor=010409" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-0969DA?style=flat-square&labelColor=010409" />
+  <img src="https://img.shields.io/badge/Focus-Building%20Practical%20Solutions-0969DA?style=flat-square&labelColor=010409" />
 </p>
 </div>
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-I'm a Computer Science Engineering student from Chile working towards becoming a **Full Stack Developer**.
-I'm someone who learns by doing — if I don't know something yet, I'll figure it out.
-I believe the best way to grow is to set a high bar and work until you reach it.
-
-I'm passionate about the full picture: crafting solid **frontends**, building robust **backends**, and understanding the **infrastructure** that holds it all together.
-
-Studying Computer Science Engineering · Always building something · Goal: Build real products that solve real problems.
-
-📫 Contact me at: [jordan.devcode@gmail.com](mailto:jordan.devcode@gmail.com)
+Hi, I'm Jordan — a Computer Science Engineering student who loves technology and understanding how things work under the hood.
+I enjoy turning ideas into real software, constantly exploring new tools, and learning whatever it takes to build practical solutions.
+My goal is simple: keep creating projects that solve real problems while leveling up my skills every day.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
